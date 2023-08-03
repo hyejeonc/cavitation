@@ -1,5 +1,5 @@
 # cavitation
-Thermodynamic study about cavitation in water with high pressure and followed shock waves. 
+Thermodynamic study about cavitation in water with high pressure and shock waves. 
 
 Referred from:
 1. Tutorial of using Espresso: https://espressomd.github.io/tutorials4.2.1/lennard_jones/lennard_jones.html
